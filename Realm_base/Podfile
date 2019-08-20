@@ -1,0 +1,5 @@
+platform :ios,'7.0'
+target 'Realm_base' do
+	pod 'Realm'
+end
+
